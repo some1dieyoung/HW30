@@ -10,7 +10,7 @@ import java.util.List;
 @NoArgsConstructor
 @Data
 public class Employee {
-    private String name;
+    private String employeeName;
     private int salary;
     private String position;
     private List<Case> cases;

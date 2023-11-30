@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Data
 public class Case {
-    private String title;
+    private String caseTitle;
     private String description;
     private String addingInfo;
 }
